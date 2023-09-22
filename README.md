@@ -33,6 +33,6 @@ Obrigado por conferir meu projeto de imersão em Java na Alura! Se tiver alguma 
 | Vitrine DEV |                                                              |
 |-------------|--------------------------------------------------------------|
 | Nome        | Alura Sticker                                                |
-| Tecnologias | Java,Spring,MongoDB,Heroku,Git                               |
+| Tecnologias | Java, Spring, MongoDB, Heroku, Git                               |
 | LinkedIn     | https://www.linkedin.com/in/anderson-sd/                    |
 | API         | https://aluralinguagensapi-mandvier.herokuapp.com/linguagens |
