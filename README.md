@@ -12,6 +12,7 @@ Spring: O framework que facilita o desenvolvimento de aplicativos Java.
 MongoDB: O banco de dados NoSQL utilizado para armazenar informações relevantes.
 Heroku: A plataforma em nuvem onde o aplicativo está hospedado.
 Git: O sistema de controle de versão para gerenciar o código-fonte.
+
 🧑‍💼 Autor
 Meu nome é Anderson, e você pode me encontrar no LinkedIn aqui. Sinta-se à vontade para se conectar e saber mais sobre o meu trabalho.
 
